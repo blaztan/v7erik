@@ -1,4 +1,3 @@
-<img src="https://github.com/v7erik/v7erik/blob/main/Erik%20Soon%20Banner.png" />
 👋 Hey there! I'm Erik Soon, a Full Stack Developer based in Singapore with 6 years of experience in web application development. 
 
 💻 My Tech Stack:
