@@ -1,4 +1,4 @@
-👋 Hey there! I'm Erik Soon, a Full Stack Developer based in Singapore with 6 years of experience in web application development. 
+👋 Hey there! I'm a Full Stack Developer with 6 years of experience in web application development. 
 
 💻 My Tech Stack:
 - Front-end: React (main focus), HTML, CSS, JavaScript, TypeScript, SCSS, Less, Tailwind CSS, Material UI, Bootstrap, Vue, Angular, Next.js, Nuxt.js.
